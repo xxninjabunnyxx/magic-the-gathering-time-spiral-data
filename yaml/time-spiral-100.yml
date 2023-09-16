@@ -1,0 +1,114 @@
+---
+object: card
+id: fab6bc89-492a-46a4-90dc-95ae2e2bc483
+oracle_id: d02427fa-3ef0-484f-acad-63a1d5218727
+multiverse_ids:
+- 114915
+mtgo_id: 25705
+mtgo_foil_id: 25706
+tcgplayer_id: 14195
+cardmarket_id: 13802
+name: Cyclopean Giant
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/fab6bc89-492a-46a4-90dc-95ae2e2bc483
+scryfall_uri: https://scryfall.com/card/tsp/100/cyclopean-giant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.jpg?1562948107
+  normal: https://cards.scryfall.io/normal/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.jpg?1562948107
+  large: https://cards.scryfall.io/large/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.jpg?1562948107
+  png: https://cards.scryfall.io/png/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.png?1562948107
+  art_crop: https://cards.scryfall.io/art_crop/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.jpg?1562948107
+  border_crop: https://cards.scryfall.io/border_crop/front/f/a/fab6bc89-492a-46a4-90dc-95ae2e2bc483.jpg?1562948107
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Zombie Giant
+oracle_text: When Cyclopean Giant dies, target land becomes a Swamp. Exile Cyclopean
+  Giant.
+power: '4'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fab6bc89-492a-46a4-90dc-95ae2e2bc483/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad02427fa-3ef0-484f-acad-63a1d5218727&unique=prints
+collector_number: '100'
+digital: false
+rarity: common
+flavor_text: A tomb-eye may remain shut for centuries. It opens when it sees a world
+  as twisted and hollow as the wretch beneath its lid.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 4e77feaf-5946-4081-9844-3a8ff1b759dc
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23615
+prices:
+  usd: '0.02'
+  usd_foil: '0.23'
+  usd_etched: 
+  eur: '0.01'
+  eur_foil: '0.20'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114915
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cyclopean+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cyclopean+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cyclopean+Giant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14195?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cyclopean+Giant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25705?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

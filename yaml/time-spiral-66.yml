@@ -1,0 +1,116 @@
+---
+object: card
+id: 368ee06f-9021-4b65-9f53-9c326bf3a27f
+oracle_id: c87e3b1d-2d24-4f1c-84e8-1c21a347cdc2
+multiverse_ids:
+- 118918
+mtgo_id: 25851
+mtgo_foil_id: 25852
+tcgplayer_id: 14283
+cardmarket_id: 13896
+name: Looter il-Kor
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/368ee06f-9021-4b65-9f53-9c326bf3a27f
+scryfall_uri: https://scryfall.com/card/tsp/66/looter-il-kor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.jpg?1562906492
+  normal: https://cards.scryfall.io/normal/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.jpg?1562906492
+  large: https://cards.scryfall.io/large/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.jpg?1562906492
+  png: https://cards.scryfall.io/png/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.png?1562906492
+  art_crop: https://cards.scryfall.io/art_crop/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.jpg?1562906492
+  border_crop: https://cards.scryfall.io/border_crop/front/3/6/368ee06f-9021-4b65-9f53-9c326bf3a27f.jpg?1562906492
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Kor Rogue
+oracle_text: |-
+  Shadow (This creature can block or be blocked by only creatures with shadow.)
+  Whenever Looter il-Kor deals damage to an opponent, draw a card, then discard a card.
+power: '1'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Shadow
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/368ee06f-9021-4b65-9f53-9c326bf3a27f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac87e3b1d-2d24-4f1c-84e8-1c21a347cdc2&unique=prints
+collector_number: '66'
+digital: false
+rarity: common
+flavor_text: Unable to touch items of value, he goes forth to steal secrets instead.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Dringenberg
+artist_ids:
+- a1407afa-0f54-43f8-938b-88b268074f91
+illustration_id: d675a327-96b9-4471-ba80-9661c7439bf9
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3030
+penny_rank: 2949
+prices:
+  usd: '0.23'
+  usd_foil: '11.02'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '3.98'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118918
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Looter+il-Kor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Looter+il-Kor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Looter+il-Kor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14283?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Looter+il-Kor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25851?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

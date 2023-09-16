@@ -1,0 +1,115 @@
+---
+object: card
+id: fa7322e2-dbea-46e1-ba29-a86a13e5d33e
+oracle_id: a28ef7a5-4b47-4429-838b-a64a7c0701d0
+multiverse_ids:
+- 108832
+mtgo_id: 25423
+mtgo_foil_id: 25424
+tcgplayer_id: 14174
+cardmarket_id: 13781
+name: Call to the Netherworld
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/fa7322e2-dbea-46e1-ba29-a86a13e5d33e
+scryfall_uri: https://scryfall.com/card/tsp/97/call-to-the-netherworld?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.jpg?1562948026
+  normal: https://cards.scryfall.io/normal/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.jpg?1562948026
+  large: https://cards.scryfall.io/large/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.jpg?1562948026
+  png: https://cards.scryfall.io/png/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.png?1562948026
+  art_crop: https://cards.scryfall.io/art_crop/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.jpg?1562948026
+  border_crop: https://cards.scryfall.io/border_crop/front/f/a/fa7322e2-dbea-46e1-ba29-a86a13e5d33e.jpg?1562948026
+mana_cost: "{B}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: |-
+  Return target black creature card from your graveyard to your hand.
+  Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Madness
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fa7322e2-dbea-46e1-ba29-a86a13e5d33e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa28ef7a5-4b47-4429-838b-a64a7c0701d0&unique=prints
+collector_number: '97'
+digital: false
+rarity: common
+flavor_text: The ritual was normally performed only by horrors and pit spawn. Lesser
+  mages had but one sanity to crack in the casting.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vance Kovacs
+artist_ids:
+- b5516011-4722-4fc8-8542-102cecc52b71
+illustration_id: ad1e8930-0a8d-4a25-b6c2-80f5d1e61a69
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3917
+penny_rank: 7685
+prices:
+  usd: '0.32'
+  usd_foil: '14.96'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '4.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108832
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Call+to+the+Netherworld&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Call+to+the+Netherworld&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Call+to+the+Netherworld
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14174?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Call+to+the+Netherworld&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25423?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,116 @@
+---
+object: card
+id: 670521c3-df02-487d-a299-49419e41889f
+oracle_id: 1732cd31-1393-426f-a2fe-9b6b3f27136b
+multiverse_ids:
+- 108807
+mtgo_id: 25407
+mtgo_foil_id: 25408
+tcgplayer_id: 14211
+cardmarket_id: 13818
+name: Durkwood Baloth
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/670521c3-df02-487d-a299-49419e41889f
+scryfall_uri: https://scryfall.com/card/tsp/193/durkwood-baloth?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/7/670521c3-df02-487d-a299-49419e41889f.jpg?1562916541
+  normal: https://cards.scryfall.io/normal/front/6/7/670521c3-df02-487d-a299-49419e41889f.jpg?1562916541
+  large: https://cards.scryfall.io/large/front/6/7/670521c3-df02-487d-a299-49419e41889f.jpg?1562916541
+  png: https://cards.scryfall.io/png/front/6/7/670521c3-df02-487d-a299-49419e41889f.png?1562916541
+  art_crop: https://cards.scryfall.io/art_crop/front/6/7/670521c3-df02-487d-a299-49419e41889f.jpg?1562916541
+  border_crop: https://cards.scryfall.io/border_crop/front/6/7/670521c3-df02-487d-a299-49419e41889f.jpg?1562916541
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Creature — Beast
+oracle_text: Suspend 5—{G} (Rather than cast this card from your hand, you may pay
+  {G} and exile it with five time counters on it. At the beginning of your upkeep,
+  remove a time counter. When the last is removed, cast it without paying its mana
+  cost. It has haste.)
+power: '5'
+toughness: '5'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/670521c3-df02-487d-a299-49419e41889f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1732cd31-1393-426f-a2fe-9b6b3f27136b&unique=prints
+collector_number: '193'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: ea4130c4-3bb4-48e7-b7a6-7db7cec42b07
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18346
+penny_rank: 11167
+prices:
+  usd: '0.09'
+  usd_foil: '0.07'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.19'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108807
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Durkwood+Baloth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Durkwood+Baloth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Durkwood+Baloth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14211?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Durkwood+Baloth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25407?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

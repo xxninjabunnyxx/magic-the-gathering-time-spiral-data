@@ -1,0 +1,115 @@
+---
+object: card
+id: 653ddfa0-2088-4503-a3ab-b0f1d55d8351
+oracle_id: 406b4b1d-756b-4062-897d-3693832086a0
+multiverse_ids:
+- 111048
+mtgo_id: 25581
+mtgo_foil_id: 25582
+tcgplayer_id: 14251
+cardmarket_id: 13861
+name: Greater Gargadon
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/653ddfa0-2088-4503-a3ab-b0f1d55d8351
+scryfall_uri: https://scryfall.com/card/tsp/161/greater-gargadon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1562916161
+  normal: https://cards.scryfall.io/normal/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1562916161
+  large: https://cards.scryfall.io/large/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1562916161
+  png: https://cards.scryfall.io/png/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.png?1562916161
+  art_crop: https://cards.scryfall.io/art_crop/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1562916161
+  border_crop: https://cards.scryfall.io/border_crop/front/6/5/653ddfa0-2088-4503-a3ab-b0f1d55d8351.jpg?1562916161
+mana_cost: "{9}{R}"
+cmc: 10.0
+type_line: Creature — Beast
+oracle_text: |-
+  Suspend 10—{R}
+  Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate only if Greater Gargadon is suspended.
+power: '9'
+toughness: '7'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/653ddfa0-2088-4503-a3ab-b0f1d55d8351/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A406b4b1d-756b-4062-897d-3693832086a0&unique=prints
+collector_number: '161'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rob Alexander
+artist_ids:
+- 35906871-6c78-4ab2-9ed1-e6792c8efb74
+illustration_id: 54a888c0-e6ec-4c0a-8ec7-c50357d368b6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7374
+penny_rank: 1046
+prices:
+  usd: '0.47'
+  usd_foil: '8.82'
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: '5.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111048
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Greater+Gargadon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Greater+Gargadon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Greater+Gargadon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14251?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Greater+Gargadon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25581?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

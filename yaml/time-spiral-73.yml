@@ -1,0 +1,117 @@
+---
+object: card
+id: 78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8
+oracle_id: ae2e6ffd-fb93-4c47-88e7-e84460eefbe5
+multiverse_ids:
+- 109715
+mtgo_id: 25519
+mtgo_foil_id: 25520
+tcgplayer_id: 14341
+cardmarket_id: 13960
+name: Riftwing Cloudskate
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8
+scryfall_uri: https://scryfall.com/card/tsp/73/riftwing-cloudskate?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.jpg?1562920341
+  normal: https://cards.scryfall.io/normal/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.jpg?1562920341
+  large: https://cards.scryfall.io/large/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.jpg?1562920341
+  png: https://cards.scryfall.io/png/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.png?1562920341
+  art_crop: https://cards.scryfall.io/art_crop/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.jpg?1562920341
+  border_crop: https://cards.scryfall.io/border_crop/front/7/8/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8.jpg?1562920341
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Creature — Illusion
+oracle_text: |-
+  Flying
+  When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.
+  Suspend 3—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aae2e6ffd-fb93-4c47-88e7-e84460eefbe5&unique=prints
+collector_number: '73'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: '0356678e-41b9-4ed9-8fb7-73f98ee5deb9'
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11268
+penny_rank: 900
+prices:
+  usd: '0.19'
+  usd_foil: '5.27'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.50'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109715
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Riftwing+Cloudskate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Riftwing+Cloudskate&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Riftwing+Cloudskate
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14341?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Riftwing+Cloudskate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25519?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,119 @@
+---
+object: card
+id: 50f058a7-c3c7-4bdf-a66c-a2636a8bd9db
+oracle_id: e3056f28-868b-401a-a528-7528d639bdeb
+multiverse_ids:
+- 118880
+mtgo_id: 25793
+mtgo_foil_id: 25794
+tcgplayer_id: 14331
+cardmarket_id: 13950
+name: Prismatic Lens
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db
+scryfall_uri: https://scryfall.com/card/tsp/262/prismatic-lens?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.jpg?1562911923
+  normal: https://cards.scryfall.io/normal/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.jpg?1562911923
+  large: https://cards.scryfall.io/large/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.jpg?1562911923
+  png: https://cards.scryfall.io/png/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.png?1562911923
+  art_crop: https://cards.scryfall.io/art_crop/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.jpg?1562911923
+  border_crop: https://cards.scryfall.io/border_crop/front/5/0/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db.jpg?1562911923
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: |-
+  {T}: Add {C}.
+  {1}, {T}: Add one mana of any color.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- C
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/50f058a7-c3c7-4bdf-a66c-a2636a8bd9db/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae3056f28-868b-401a-a528-7528d639bdeb&unique=prints
+collector_number: '262'
+digital: false
+rarity: common
+flavor_text: It bends not light but mana, aligning its chaotic currents into the sharp
+  angles necessary for the mystic's purposes.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alan Pollack
+artist_ids:
+- 70c20ea3-5ad6-4082-a337-6e994ae5828e
+illustration_id: 497d5788-8b5a-4204-bbaa-1b6a63d482cf
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 682
+penny_rank: 1170
+prices:
+  usd: '0.35'
+  usd_foil: '7.45'
+  usd_etched: 
+  eur: '0.31'
+  eur_foil: '1.49'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118880
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Prismatic+Lens&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Prismatic+Lens&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Prismatic+Lens
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14331?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Prismatic+Lens&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25793?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

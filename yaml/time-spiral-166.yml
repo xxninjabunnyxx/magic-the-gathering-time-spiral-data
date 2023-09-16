@@ -1,0 +1,115 @@
+---
+object: card
+id: a1f85b2a-7836-4058-87a5-859c4311a7e4
+oracle_id: cbbad3da-695e-4527-9678-0942f3751287
+multiverse_ids:
+- 109752
+mtgo_id: 25541
+mtgo_foil_id: 25542
+tcgplayer_id: 14270
+cardmarket_id: 13883
+name: Jaya Ballard, Task Mage
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/a1f85b2a-7836-4058-87a5-859c4311a7e4
+scryfall_uri: https://scryfall.com/card/tsp/166/jaya-ballard-task-mage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.jpg?1562929164
+  normal: https://cards.scryfall.io/normal/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.jpg?1562929164
+  large: https://cards.scryfall.io/large/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.jpg?1562929164
+  png: https://cards.scryfall.io/png/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.png?1562929164
+  art_crop: https://cards.scryfall.io/art_crop/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.jpg?1562929164
+  border_crop: https://cards.scryfall.io/border_crop/front/a/1/a1f85b2a-7836-4058-87a5-859c4311a7e4.jpg?1562929164
+mana_cost: "{1}{R}{R}"
+cmc: 3.0
+type_line: Legendary Creature — Human Spellshaper
+oracle_text: |-
+  {R}, {T}, Discard a card: Destroy target blue permanent.
+  {1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.
+  {5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a1f85b2a-7836-4058-87a5-859c4311a7e4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acbbad3da-695e-4527-9678-0942f3751287&unique=prints
+collector_number: '166'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: 3ac84852-69dd-41a7-8229-d4ce97987e16
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10564
+penny_rank: 5932
+prices:
+  usd: '0.30'
+  usd_foil: '4.92'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '2.14'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109752
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jaya+Ballard%2C+Task+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jaya+Ballard%2C+Task+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jaya+Ballard%2C+Task+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14270?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jaya+Ballard%2C+Task+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25541?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,115 @@
+---
+object: card
+id: 4e40f99c-9608-4463-8c6f-c6e142f0d716
+oracle_id: af224f6f-cedd-498f-a08e-7be0db5a11b7
+multiverse_ids:
+- 114902
+mtgo_id: 25687
+mtgo_foil_id: 25688
+tcgplayer_id: 14312
+cardmarket_id: 13928
+name: Orcish Cannonade
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/4e40f99c-9608-4463-8c6f-c6e142f0d716
+scryfall_uri: https://scryfall.com/card/tsp/172/orcish-cannonade?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.jpg?1562911399
+  normal: https://cards.scryfall.io/normal/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.jpg?1562911399
+  large: https://cards.scryfall.io/large/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.jpg?1562911399
+  png: https://cards.scryfall.io/png/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.png?1562911399
+  art_crop: https://cards.scryfall.io/art_crop/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.jpg?1562911399
+  border_crop: https://cards.scryfall.io/border_crop/front/4/e/4e40f99c-9608-4463-8c6f-c6e142f0d716.jpg?1562911399
+mana_cost: "{1}{R}{R}"
+cmc: 3.0
+type_line: Instant
+oracle_text: |-
+  Orcish Cannonade deals 2 damage to any target and 3 damage to you.
+  Draw a card.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4e40f99c-9608-4463-8c6f-c6e142f0d716/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf224f6f-cedd-498f-a08e-7be0db5a11b7&unique=prints
+collector_number: '172'
+digital: false
+rarity: common
+flavor_text: |-
+  "Crispy! Scarback! Load another volcano-ball."
+  —Stumphobbler Thuj, Orcish captain
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Pete Venters
+artist_ids:
+- d54c4a1a-c0c5-4834-84db-125d341f3ad8
+illustration_id: 1e6d1b54-92d2-4527-9547-c32796a053dd
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17671
+penny_rank: 14435
+prices:
+  usd: '0.08'
+  usd_foil: '0.24'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.50'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114902
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Orcish+Cannonade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Orcish+Cannonade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Orcish+Cannonade
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14312?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orcish+Cannonade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25687?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 175d5a88-2597-4e85-aed6-7a65c0595fb4
+oracle_id: 7bd22c98-0782-447f-a5fa-4281585a3eab
+multiverse_ids:
+- 113531
+mtgo_id: 25643
+mtgo_foil_id: 25644
+tcgplayer_id: 14361
+cardmarket_id: 13980
+name: Smallpox
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/175d5a88-2597-4e85-aed6-7a65c0595fb4
+scryfall_uri: https://scryfall.com/card/tsp/131/smallpox?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.jpg?1562899952
+  normal: https://cards.scryfall.io/normal/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.jpg?1562899952
+  large: https://cards.scryfall.io/large/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.jpg?1562899952
+  png: https://cards.scryfall.io/png/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.png?1562899952
+  art_crop: https://cards.scryfall.io/art_crop/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.jpg?1562899952
+  border_crop: https://cards.scryfall.io/border_crop/front/1/7/175d5a88-2597-4e85-aed6-7a65c0595fb4.jpg?1562899952
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Each player loses 1 life, discards a card, sacrifices a creature, then
+  sacrifices a land.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/175d5a88-2597-4e85-aed6-7a65c0595fb4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7bd22c98-0782-447f-a5fa-4281585a3eab&unique=prints
+collector_number: '131'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Great losses often bring only a numb shock. To truly plunge a victim into misery, you must overwhelm him with many small sufferings."
+  —Ratadrabik of Urborg
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Janine Johnston
+artist_ids:
+- 51648844-a0be-41e3-ba7b-66e8da88bd57
+illustration_id: f172d45b-75a3-4b19-9562-5aa164aaf831
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3906
+penny_rank: 450
+prices:
+  usd: '0.31'
+  usd_foil: '6.04'
+  usd_etched: 
+  eur: '0.39'
+  eur_foil: '3.25'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113531
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Smallpox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Smallpox&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Smallpox
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14361?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Smallpox&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25643?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

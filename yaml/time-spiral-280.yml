@@ -1,0 +1,128 @@
+---
+object: card
+id: b22d97f3-08cf-4c19-bbe2-5a36096187cd
+oracle_id: 5a620d20-f14e-43d0-8e57-c2a197e2ec51
+multiverse_ids:
+- 116384
+mtgo_id: 25723
+mtgo_foil_id: 25724
+tcgplayer_id: 14414
+cardmarket_id: 14036
+name: Urza's Factory
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/b22d97f3-08cf-4c19-bbe2-5a36096187cd
+scryfall_uri: https://scryfall.com/card/tsp/280/urzas-factory?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.jpg?1562932584
+  normal: https://cards.scryfall.io/normal/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.jpg?1562932584
+  large: https://cards.scryfall.io/large/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.jpg?1562932584
+  png: https://cards.scryfall.io/png/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.png?1562932584
+  art_crop: https://cards.scryfall.io/art_crop/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.jpg?1562932584
+  border_crop: https://cards.scryfall.io/border_crop/front/b/2/b22d97f3-08cf-4c19-bbe2-5a36096187cd.jpg?1562932584
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Urza's
+oracle_text: |-
+  {T}: Add {C}.
+  {7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: e72daa68-0680-431c-a616-b3693fd58813
+  component: token
+  name: Assembly-Worker
+  type_line: Token Artifact Creature — Assembly-Worker
+  uri: https://api.scryfall.com/cards/e72daa68-0680-431c-a616-b3693fd58813
+- object: related_card
+  id: b22d97f3-08cf-4c19-bbe2-5a36096187cd
+  component: combo_piece
+  name: Urza's Factory
+  type_line: Land — Urza's
+  uri: https://api.scryfall.com/cards/b22d97f3-08cf-4c19-bbe2-5a36096187cd
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b22d97f3-08cf-4c19-bbe2-5a36096187cd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a620d20-f14e-43d0-8e57-c2a197e2ec51&unique=prints
+collector_number: '280'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Though their ideals are leagues apart, Urza's and Mishra's creations have a surprising harmony with one another."
+  —Tocasia, journal entry
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 3f6e4964-ef09-437d-9338-1346883a3376
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4237
+penny_rank: 159
+prices:
+  usd: '0.28'
+  usd_foil: '1.42'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '1.48'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116384
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Urza%27s+Factory&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Urza%27s+Factory&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Urza%27s+Factory
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14414?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Urza%27s+Factory&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25723?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

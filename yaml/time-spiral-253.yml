@@ -1,0 +1,113 @@
+---
+object: card
+id: 54522c50-5333-47ac-ba3e-d87c599404c4
+oracle_id: 6fd37ff3-e75d-459a-8717-8f6a9865fb32
+multiverse_ids:
+- 113530
+mtgo_id: 25641
+mtgo_foil_id: 25642
+tcgplayer_id: 14187
+cardmarket_id: 13794
+name: Clockwork Hydra
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/54522c50-5333-47ac-ba3e-d87c599404c4
+scryfall_uri: https://scryfall.com/card/tsp/253/clockwork-hydra?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.jpg?1562912613
+  normal: https://cards.scryfall.io/normal/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.jpg?1562912613
+  large: https://cards.scryfall.io/large/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.jpg?1562912613
+  png: https://cards.scryfall.io/png/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.png?1562912613
+  art_crop: https://cards.scryfall.io/art_crop/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.jpg?1562912613
+  border_crop: https://cards.scryfall.io/border_crop/front/5/4/54522c50-5333-47ac-ba3e-d87c599404c4.jpg?1562912613
+mana_cost: "{5}"
+cmc: 5.0
+type_line: Artifact Creature — Hydra
+oracle_text: |-
+  Clockwork Hydra enters the battlefield with four +1/+1 counters on it.
+  Whenever Clockwork Hydra attacks or blocks, remove a +1/+1 counter from it. If you do, Clockwork Hydra deals 1 damage to any target.
+  {T}: Put a +1/+1 counter on Clockwork Hydra.
+power: '0'
+toughness: '0'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/54522c50-5333-47ac-ba3e-d87c599404c4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6fd37ff3-e75d-459a-8717-8f6a9865fb32&unique=prints
+collector_number: '253'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daren Bader
+artist_ids:
+- 7da1a585-c875-45e4-b322-5da9e8e1f651
+illustration_id: f3f41980-8613-42a3-bc45-6769b75bab5b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13484
+penny_rank: 6116
+prices:
+  usd: '0.13'
+  usd_foil: '0.76'
+  usd_etched: 
+  eur: '0.29'
+  eur_foil: '0.02'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113530
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Clockwork+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Clockwork+Hydra&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Clockwork+Hydra
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14187?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Clockwork+Hydra&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25641?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: 9ba55f16-a37c-4caa-9417-227a06cf4061
+oracle_id: 530f088d-bfa1-4410-b1aa-ade8abdb2b7a
+multiverse_ids:
+- 109758
+mtgo_id: 25545
+mtgo_foil_id: 25546
+tcgplayer_id: 14322
+cardmarket_id: 13938
+name: Phthisis
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/9ba55f16-a37c-4caa-9417-227a06cf4061
+scryfall_uri: https://scryfall.com/card/tsp/122/phthisis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.jpg?1562927843
+  normal: https://cards.scryfall.io/normal/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.jpg?1562927843
+  large: https://cards.scryfall.io/large/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.jpg?1562927843
+  png: https://cards.scryfall.io/png/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.png?1562927843
+  art_crop: https://cards.scryfall.io/art_crop/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.jpg?1562927843
+  border_crop: https://cards.scryfall.io/border_crop/front/9/b/9ba55f16-a37c-4caa-9417-227a06cf4061.jpg?1562927843
+mana_cost: "{3}{B}{B}{B}{B}"
+cmc: 7.0
+type_line: Sorcery
+oracle_text: |-
+  Destroy target creature. Its controller loses life equal to its power plus its toughness.
+  Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9ba55f16-a37c-4caa-9417-227a06cf4061/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A530f088d-bfa1-4410-b1aa-ade8abdb2b7a&unique=prints
+collector_number: '122'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: fe3cb8de-b7c2-4766-8e99-5a27c8d14de1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10048
+penny_rank: 11015
+prices:
+  usd: '0.20'
+  usd_foil: '0.59'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.15'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109758
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phthisis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phthisis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phthisis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14322?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phthisis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25545?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

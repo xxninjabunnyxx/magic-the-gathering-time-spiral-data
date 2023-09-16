@@ -1,0 +1,114 @@
+---
+object: card
+id: 368b9fee-88ce-4725-82a5-335d8645aca2
+oracle_id: 65afedc9-9446-4417-8576-807279061342
+multiverse_ids:
+- 108822
+mtgo_id: 25417
+mtgo_foil_id: 25418
+tcgplayer_id: 14323
+cardmarket_id: 13939
+name: Phyrexian Totem
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/368b9fee-88ce-4725-82a5-335d8645aca2
+scryfall_uri: https://scryfall.com/card/tsp/261/phyrexian-totem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491
+  normal: https://cards.scryfall.io/normal/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491
+  large: https://cards.scryfall.io/large/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491
+  png: https://cards.scryfall.io/png/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.png?1562906491
+  art_crop: https://cards.scryfall.io/art_crop/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491
+  border_crop: https://cards.scryfall.io/border_crop/front/3/6/368b9fee-88ce-4725-82a5-335d8645aca2.jpg?1562906491
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: |-
+  {T}: Add {B}.
+  {2}{B}: Phyrexian Totem becomes a 5/5 black Phyrexian Horror artifact creature with trample until end of turn.
+  Whenever Phyrexian Totem is dealt damage, if it's a creature, sacrifice that many permanents.
+colors: []
+color_identity:
+- B
+keywords: []
+produced_mana:
+- B
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/368b9fee-88ce-4725-82a5-335d8645aca2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65afedc9-9446-4417-8576-807279061342&unique=prints
+collector_number: '261'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Zeleznik
+artist_ids:
+- 7d96bd59-7779-4740-8658-953f518ff805
+illustration_id: 599880fc-8bb7-46c3-aa70-1552cc14f8d6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16601
+penny_rank: 3279
+prices:
+  usd: '0.21'
+  usd_foil: '0.60'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108822
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phyrexian+Totem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phyrexian+Totem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phyrexian+Totem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14323?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phyrexian+Totem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25417?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

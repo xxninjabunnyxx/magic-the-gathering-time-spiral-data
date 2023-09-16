@@ -1,0 +1,114 @@
+---
+object: card
+id: a2f5c613-80ad-487f-995a-6a869c137798
+oracle_id: a86587ea-14ec-45db-8bac-10b6b9eaeb25
+multiverse_ids:
+- 124313
+mtgo_id: 25937
+mtgo_foil_id: 25938
+tcgplayer_id: 14269
+cardmarket_id: 13882
+name: Ixidron
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/a2f5c613-80ad-487f-995a-6a869c137798
+scryfall_uri: https://scryfall.com/card/tsp/65/ixidron?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.jpg?1562929343
+  normal: https://cards.scryfall.io/normal/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.jpg?1562929343
+  large: https://cards.scryfall.io/large/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.jpg?1562929343
+  png: https://cards.scryfall.io/png/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.png?1562929343
+  art_crop: https://cards.scryfall.io/art_crop/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.jpg?1562929343
+  border_crop: https://cards.scryfall.io/border_crop/front/a/2/a2f5c613-80ad-487f-995a-6a869c137798.jpg?1562929343
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Creature — Illusion
+oracle_text: |-
+  As Ixidron enters the battlefield, turn all other nontoken creatures face down. (They're 2/2 creatures.)
+  Ixidron's power and toughness are each equal to the number of face-down creatures on the battlefield.
+power: "*"
+toughness: "*"
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a2f5c613-80ad-487f-995a-6a869c137798/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa86587ea-14ec-45db-8bac-10b6b9eaeb25&unique=prints
+collector_number: '65'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 7acc7f97-5c1d-4ba1-98f5-62e7f7ad6904
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4790
+penny_rank: 7800
+prices:
+  usd: '0.48'
+  usd_foil: '15.05'
+  usd_etched: 
+  eur: '0.18'
+  eur_foil: '2.00'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=124313
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ixidron&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ixidron&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ixidron
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14269?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ixidron&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25937?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

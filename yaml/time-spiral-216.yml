@@ -1,0 +1,113 @@
+---
+object: card
+id: 56f739e8-b4ba-426a-a159-0e0d5a0ebb6f
+oracle_id: 9cdc9f99-c6fa-40cd-90b0-e47d43a8cc3c
+multiverse_ids:
+- 108802
+mtgo_id: 25405
+mtgo_foil_id: 25406
+tcgplayer_id: 14352
+cardmarket_id: 13971
+name: Search for Tomorrow
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f
+scryfall_uri: https://scryfall.com/card/tsp/216/search-for-tomorrow?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.jpg?1562913160
+  normal: https://cards.scryfall.io/normal/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.jpg?1562913160
+  large: https://cards.scryfall.io/large/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.jpg?1562913160
+  png: https://cards.scryfall.io/png/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.png?1562913160
+  art_crop: https://cards.scryfall.io/art_crop/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.jpg?1562913160
+  border_crop: https://cards.scryfall.io/border_crop/front/5/6/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f.jpg?1562913160
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: |-
+  Search your library for a basic land card, put it onto the battlefield, then shuffle.
+  Suspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/56f739e8-b4ba-426a-a159-0e0d5a0ebb6f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9cdc9f99-c6fa-40cd-90b0-e47d43a8cc3c&unique=prints
+collector_number: '216'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: 53dfa12f-062b-43dd-afd4-e3c21379a0f2
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 730
+penny_rank: 1042
+prices:
+  usd: '0.28'
+  usd_foil: '3.07'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '3.20'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108802
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Search+for+Tomorrow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Search+for+Tomorrow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Search+for+Tomorrow
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14352?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Search+for+Tomorrow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25405?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

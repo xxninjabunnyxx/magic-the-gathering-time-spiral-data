@@ -1,0 +1,116 @@
+---
+object: card
+id: 31c19d42-aaaf-417c-a303-74262f82e365
+oracle_id: f578465d-f3a5-48da-bcab-cffbbdd88be8
+multiverse_ids:
+- 113575
+mtgo_id: 25671
+mtgo_foil_id: 25672
+tcgplayer_id: 14335
+cardmarket_id: 13954
+name: Pulmonic Sliver
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/31c19d42-aaaf-417c-a303-74262f82e365
+scryfall_uri: https://scryfall.com/card/tsp/36/pulmonic-sliver?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.jpg?1562905404
+  normal: https://cards.scryfall.io/normal/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.jpg?1562905404
+  large: https://cards.scryfall.io/large/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.jpg?1562905404
+  png: https://cards.scryfall.io/png/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.png?1562905404
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.jpg?1562905404
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/31c19d42-aaaf-417c-a303-74262f82e365.jpg?1562905404
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Sliver
+oracle_text: |-
+  All Sliver creatures have flying.
+  All Slivers have "If this permanent would be put into a graveyard, you may put it on top of its owner's library instead."
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/31c19d42-aaaf-417c-a303-74262f82e365/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af578465d-f3a5-48da-bcab-cffbbdd88be8&unique=prints
+collector_number: '36'
+digital: false
+rarity: rare
+flavor_text: Like a great bellows it hisses, and its kin, both living and dead, are
+  lifted to safety.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Easley
+artist_ids:
+- da17055e-693c-461a-b132-67dd88b42ca6
+illustration_id: 1b26b943-8597-44a4-ab43-edf65708c57e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5663
+penny_rank: 9511
+prices:
+  usd: '1.73'
+  usd_foil: '20.10'
+  usd_etched: 
+  eur: '0.70'
+  eur_foil: '4.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113575
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Pulmonic+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Pulmonic+Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Pulmonic+Sliver
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14335?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pulmonic+Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25671?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

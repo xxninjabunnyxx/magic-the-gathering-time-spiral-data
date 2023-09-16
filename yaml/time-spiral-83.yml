@@ -1,0 +1,118 @@
+---
+object: card
+id: 3c0145f6-4e27-49e7-9ef6-bac6fa3de26d
+oracle_id: 2b6cbd55-5adc-4a34-ac45-8531705a7ee1
+multiverse_ids:
+- 121271
+mtgo_id: 25367
+mtgo_foil_id: 25368
+tcgplayer_id: 14388
+cardmarket_id: 14010
+name: Teferi, Mage of Zhalfir
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d
+scryfall_uri: https://scryfall.com/card/tsp/83/teferi-mage-of-zhalfir?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.jpg?1562907491
+  normal: https://cards.scryfall.io/normal/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.jpg?1562907491
+  large: https://cards.scryfall.io/large/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.jpg?1562907491
+  png: https://cards.scryfall.io/png/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.png?1562907491
+  art_crop: https://cards.scryfall.io/art_crop/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.jpg?1562907491
+  border_crop: https://cards.scryfall.io/border_crop/front/3/c/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d.jpg?1562907491
+mana_cost: "{2}{U}{U}{U}"
+cmc: 5.0
+type_line: Legendary Creature — Human Wizard
+oracle_text: |-
+  Flash
+  Creature cards you own that aren't on the battlefield have flash.
+  Each opponent can cast spells only any time they could cast a sorcery.
+power: '3'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3c0145f6-4e27-49e7-9ef6-bac6fa3de26d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2b6cbd55-5adc-4a34-ac45-8531705a7ee1&unique=prints
+collector_number: '83'
+digital: false
+rarity: rare
+flavor_text: To save this plane, he must forsake all others.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory & Jeremy Jarvis
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+- b40ac320-89b4-4c51-a85f-4a4b63ae614e
+illustration_id: 3ce22203-b8b3-4624-a60a-37ce124db90c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2707
+penny_rank: 835
+prices:
+  usd: '2.73'
+  usd_foil: '15.53'
+  usd_etched: 
+  eur: '0.80'
+  eur_foil: '2.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121271
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Teferi%2C+Mage+of+Zhalfir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Teferi%2C+Mage+of+Zhalfir&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Teferi%2C+Mage+of+Zhalfir
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14388?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Teferi%2C+Mage+of+Zhalfir&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25367?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

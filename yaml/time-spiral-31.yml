@@ -1,0 +1,115 @@
+---
+object: card
+id: e3e0d923-d94f-4f12-a025-86587b18878f
+oracle_id: 644b7aba-a7b8-4861-9e83-73329cf85be2
+multiverse_ids:
+- 118902
+mtgo_id: 25825
+mtgo_foil_id: 25826
+tcgplayer_id: 14313
+cardmarket_id: 13929
+name: Outrider en-Kor
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/e3e0d923-d94f-4f12-a025-86587b18878f
+scryfall_uri: https://scryfall.com/card/tsp/31/outrider-en-kor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.jpg?1562943139
+  normal: https://cards.scryfall.io/normal/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.jpg?1562943139
+  large: https://cards.scryfall.io/large/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.jpg?1562943139
+  png: https://cards.scryfall.io/png/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.png?1562943139
+  art_crop: https://cards.scryfall.io/art_crop/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.jpg?1562943139
+  border_crop: https://cards.scryfall.io/border_crop/front/e/3/e3e0d923-d94f-4f12-a025-86587b18878f.jpg?1562943139
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Kor Rebel Knight
+oracle_text: |-
+  Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+  {0}: The next 1 damage that would be dealt to Outrider en-Kor this turn is dealt to target creature you control instead.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flanking
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e3e0d923-d94f-4f12-a025-86587b18878f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A644b7aba-a7b8-4861-9e83-73329cf85be2&unique=prints
+collector_number: '31'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+illustration_id: 24212a5f-293c-40a7-ac10-e0a69172675c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14236
+penny_rank: 5966
+prices:
+  usd: '0.23'
+  usd_foil: '0.97'
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: '0.30'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118902
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Outrider+en-Kor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Outrider+en-Kor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Outrider+en-Kor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14313?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Outrider+en-Kor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25825?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

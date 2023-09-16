@@ -1,0 +1,118 @@
+---
+object: card
+id: 8e050532-e245-4eea-90a5-03e3e410dcbe
+oracle_id: 54de4a7f-86f4-4029-80f7-bc25d6509cc8
+multiverse_ids:
+- 113506
+mtgo_id: 25611
+mtgo_foil_id: 25612
+tcgplayer_id: 14199
+cardmarket_id: 13806
+name: Deep-Sea Kraken
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/8e050532-e245-4eea-90a5-03e3e410dcbe
+scryfall_uri: https://scryfall.com/card/tsp/56/deep-sea-kraken?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.jpg?1562924961
+  normal: https://cards.scryfall.io/normal/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.jpg?1562924961
+  large: https://cards.scryfall.io/large/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.jpg?1562924961
+  png: https://cards.scryfall.io/png/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.png?1562924961
+  art_crop: https://cards.scryfall.io/art_crop/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.jpg?1562924961
+  border_crop: https://cards.scryfall.io/border_crop/front/8/e/8e050532-e245-4eea-90a5-03e3e410dcbe.jpg?1562924961
+mana_cost: "{7}{U}{U}{U}"
+cmc: 10.0
+type_line: Creature — Kraken
+oracle_text: |-
+  Deep-Sea Kraken can't be blocked.
+  Suspend 9—{2}{U} (Rather than cast this card from your hand, you may pay {2}{U} and exile it with nine time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+  Whenever an opponent casts a spell, if Deep-Sea Kraken is suspended, remove a time counter from it.
+power: '6'
+toughness: '6'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Suspend
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set: tsp
+set_name: Time Spiral
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c1d109bc-ffd8-428f-8d7d-3f8d7e648046
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsp&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsp?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8e050532-e245-4eea-90a5-03e3e410dcbe/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A54de4a7f-86f4-4029-80f7-bc25d6509cc8&unique=prints
+collector_number: '56'
+digital: false
+rarity: rare
+flavor_text: The rift remained open for days, sluicing ancient seawater. It closed
+  only after the last great tentacle squirmed its way through.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 0f753685-6a01-4c89-9bbd-cb86241093e0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3488
+penny_rank: 7770
+prices:
+  usd: '1.24'
+  usd_foil: '17.99'
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: '3.24'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=113506
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deep-Sea+Kraken&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deep-Sea+Kraken&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deep-Sea+Kraken
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14199?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deep-Sea+Kraken&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/25611?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
